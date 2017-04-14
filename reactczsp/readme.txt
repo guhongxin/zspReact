@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+本项目用React创建一个登录界面和数据管理界面
