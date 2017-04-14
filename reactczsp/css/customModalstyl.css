@@ -1,0 +1,378 @@
+.custom-modal .modal-header{
+  height: 40px;
+  background-color: #005EB8;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border-radius: 4px 4px 0px 0px;
+}
+.custom-modal .modal-header h4{
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 40px;
+}
+.custom-modal .modal-header .close{
+  color: #fff;
+  opacity: 1.0;
+  margin-top: 7px;
+}
+.custom-modal .modal-body{
+  padding: 20px;
+}
+.custom-modal .modal-footer{
+  border-top: transparent;
+  padding-top: 0px;
+  text-align: center;
+}
+/*批量删除的为空时弹窗*/
+#deleModeNo  .modal-dialog{
+    width: 300px;
+  }
+#deleModeNo .modal-dialog .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+  }
+/*设备设置弹窗*/
+
+#setdeviceModle  .modal-dialog{
+    width: 540px;
+  }
+#setdeviceModle  .modal-dialog .modal-body .set-param{
+    border:1px solid #CCCCCC;
+    border-radius: 4px;
+  }
+#setdeviceModle  .modal-dialog .modal-body .set-param .table{
+    margin-bottom: 0px;
+  }
+#setdeviceModle  .modal-dialog .modal-body .set-param .table th{
+    height: 30px;
+    background-color: #F5F5F5;
+    color: #333333;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+  }
+#setdeviceModle  .modal-dialog .modal-body .set-param .table tr:nth-child(odd){
+    background-color: #FFFFFF;
+  }
+#setdeviceModle  .modal-dialog .modal-body .set-param .table tr:nth-child(even){
+    background-color: #E6EFFF;
+  }
+#setdeviceModle  .modal-dialog .modal-body .set-param .table td{
+    height: 40px;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    vertical-align: middle;
+  }
+/*编辑设备弹窗*/
+
+#editDeviceModle  .modal-dialog{
+    width: 420px;
+  }
+#editDeviceModle  .modal-dialog .modal-body{
+    padding-bottom: 10px;
+  }
+#editDeviceModle  .modal-dialog .modal-body .form-infor{
+    width: 300px;
+    margin: 0px auto;
+  }
+#editDeviceModle .modal-dialog .modal-body .form-infor .form-group label{
+    width: 70px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: right;
+    margin-right: 4px;
+  }
+#editDeviceModle  .modal-dialog .modal-body .form-infor .form-group input{
+    display:inline-block;
+    width: 220px;
+  }
+#editDeviceModle  .modal-content .modal-footer  .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+    margin-right: 20px;
+  }
+#editDeviceModle  .modal-content .modal-footer  .btn-reset{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color:#9C9C9C;
+    border-color: #9C9C9C;
+    color: #ffffff;
+  }
+#editDeviceModle  #VerificationCode-error{
+    width: 100%;
+    text-align: left;
+    margin-left: 75px;
+  }
+#editDeviceModle  .modal-dialog .modal-body .form-infor .form-group label.error{
+    font-size: 12px;
+    font-weight: normal;
+    color: #A94442;
+    display: inline-block;
+    margin-left: 5px;
+    width: 100%;
+  }
+#editDeviceModle  .input_danger{
+    border: 1px solid  #A94442;
+
+  }
+/*新增设备*/
+
+#addDeviceModle  .modal-dialog{
+    width: 420px;
+  }
+#addDeviceModle  .modal-dialog .modal-body{
+    padding-bottom: 10px;
+  }
+#addDeviceModle  .modal-dialog .modal-body .form-infor{
+    width: 300px;
+    margin: 0px auto;
+  }
+#addDeviceModle  .modal-dialog .modal-body .form-infor .form-group label{
+    width: 70px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: right;
+    margin-right: 4px;
+  }
+#addDeviceModle  .modal-dialog .modal-body .form-infor .form-group input{
+    display:inline-block;
+    width: 220px;
+  }
+#addDeviceModle  .modal-content .modal-footer  .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+    margin-right: 20px;
+  }
+#addDeviceModle  .modal-content .modal-footer  .btn-reset{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color:#9C9C9C;
+    border-color: #9C9C9C;
+    color: #ffffff;
+  }
+#addDeviceModle  #VerificationCode-error{
+    width: 100%;
+    text-align: left;
+    margin-left: 75px;
+  }
+#addDeviceModle  .modal-dialog .modal-body .form-infor .form-group label.error{
+    font-size: 12px;
+    font-weight: normal;
+    color: #A94442;
+    display: inline-block;
+    margin-left: 5px;
+    width: 100%;
+  }
+#addDeviceModle  .input_danger{
+    border: 1px solid  #A94442;
+
+  }
+/*删除设备*/
+ 
+#deletDeviceModle .modal-dialog{
+    width: 300px;
+  }
+#deletDeviceModle  .modal-dialog .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+  }
+#deletDeviceModle  .modal-content .modal-footer  .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+    margin-right: 20px;
+  }
+#deletDeviceModle  .modal-content .modal-footer  .btn-qx{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #ffffff;
+    border-color: #888888;
+    color: #333333;
+  }
+/*编辑用户弹窗*/
+#editUserModle  .modal-dialog{
+    width: 420px;
+  }
+#editUserModle  .modal-dialog .modal-body{
+    padding-bottom: 10px;
+  }
+#editUserModle  .modal-dialog .modal-body .form-infor{
+    width: 300px;
+    margin: 0px auto;
+  }
+#editUserModle  .modal-dialog .modal-body .form-infor .form-group label{
+    width: 70px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: right;
+    margin-right: 4px;
+  }
+#editUserModle  .modal-dialog .modal-body .form-infor .form-group input{
+    display:inline-block;
+    width: 220px;
+  }
+#editUserModle  .modal-content .modal-footer  .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+    margin-right: 20px;
+  }
+#editUserModle  .modal-content .modal-footer  .btn-reset{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color:#9C9C9C;
+    border-color: #9C9C9C;
+    color: #ffffff;
+  }
+#editUserModle  #VerificationCode-error{
+    width: 100%;
+    text-align: left;
+    margin-left: 75px;
+  }
+#editUserModle  .modal-dialog .modal-body .form-infor .form-group label.error{
+    font-size: 12px;
+    font-weight: normal;
+    color: #A94442;
+    display: inline-block;
+    margin-left: 5px;
+    width: 100%;
+  }
+#editUserModle  .input_danger{
+    border: 1px solid  #A94442;
+
+  }
+/*删除用户*/
+
+#deletUserModle  .modal-dialog{
+    width: 300px;
+  }
+#deletUserModle .modal-dialog .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+  }
+#deletUserModle .modal-content .modal-footer  .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+    margin-right: 20px;
+  }
+#deletUserModle .modal-content .modal-footer  .btn-qx{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #ffffff;
+    border-color: #888888;
+    color: #333333;
+  }
+/*新增用户弹窗*/
+
+#addUserModle .modal-dialog{
+    width: 420px;
+  }
+#addUserModle .modal-dialog .modal-body{
+    padding-bottom: 10px;
+  }
+#addUserModle  .modal-dialog .modal-body .form-infor{
+    width: 300px;
+    margin: 0px auto;
+  }
+#addUserModle  .modal-dialog .modal-body .form-infor .form-group label{
+    width: 70px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: right;
+    margin-right: 4px;
+  }
+#addUserModle .modal-dialog .modal-body .form-infor .form-group input{
+    display:inline-block;
+    width: 220px;
+  }
+#addUserModle .modal-content .modal-footer  .btn-qr{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color: #005EB8;
+    border-color: #005EB8;
+    color: #ffffff;
+    margin-right: 20px;
+  }
+#addUserModle .modal-content .modal-footer  .btn-qx{
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+    font-size: 14px;
+    background-color:#9C9C9C;
+    border-color: #9C9C9C;
+    color: #ffffff;
+  }
+#addUserModle #VerificationCode-error{
+    width: 100%;
+    text-align: left;
+    margin-left: 75px;
+  }
+#addUserModle  .modal-dialog .modal-body .form-infor .form-group label.error{
+    font-size: 12px;
+    font-weight: normal;
+    color: #A94442;
+    display: inline-block;
+    margin-left: 5px;
+    width: 100%;
+  }
+#addUserModle  .input_danger{
+    border: 1px solid  #A94442;
+
+  }

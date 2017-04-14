@@ -1,0 +1,28 @@
+[
+	{
+		"_id" : "nWEqDJ4gPWojWBGsv",
+		"brigaName" : "直属一大队",
+		"squadrons" : [
+			"城区1中队",
+			"城区2中队"
+		]
+	},
+	{
+		"_id" : "DBByEnACoCizLEsad",
+		"brigaName" : "直属二大队",
+		"squadrons" : [
+			"城区1中队",
+			"城区2中队",
+			"城区3中队"
+		]
+	},
+	{
+		"_id" : "PiB9chgqumWmk2f8n",
+		"brigaName" : "直属三大队",
+		"squadrons" : [
+			"城区1中队",
+			"城区2中队",
+			"城区3中队"
+		]
+	}
+]

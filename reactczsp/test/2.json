@@ -1,0 +1,693 @@
+[{
+	"_id" : "YtEmv8nRaCd2NFoPF",
+	"deviceNo" : "CZJ0003",
+	"licensePlate" : "浙JC003警",
+	"brigade" : "直属一大队",
+	"squadron" : "城区3中队",
+	"contacts" : "吴小天",
+	"telephone" : "18605760003",
+	"origintype" : "CAR",
+	"deviceName" : "车载视频",
+	"contactsid" : "3aqeBEnfjM2fErGrv",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+},
+{
+	"_id" : "gRtbZSbDoXZykMknj",
+	"deviceNo" : "CZJ0004",
+	"licensePlate" : "浙JM004警",
+	"brigade" : "直属二大队",
+	"squadron" : "城区1中队",
+	"contacts" : "陈仁亮",
+	"telephone" : "18605760004",
+	"origintype" : "MOTO",
+	"deviceName" : "车载视频",
+	"contactsid" : "kk6N6rwvSPtC7PyeA",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+},
+{
+	"_id" : "XDaBTkexSmh7aEC2d",
+	"deviceNo" : "CZJ0006",
+	"licensePlate" : "浙JM006警",
+	"brigade" : "直属二大队",
+	"squadron" : "城区3中队",
+	"contacts" : "李晴",
+	"telephone" : "18605760006",
+	"origintype" : "CAR",
+	"deviceName" : "车载视频",
+	"contactsid" : "MvPCpgBaAWmEfpkoM",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+},
+{
+	"_id" : "vbdS4rMmA28aFxjnX",
+	"deviceNo" : "CZJ0007",
+	"licensePlate" : "浙JC007警",
+	"brigade" : "直属三大队",
+	"squadron" : "城区1中队",
+	"contacts" : "张小发",
+	"telephone" : "18605760007",
+	"origintype" : "CAR",
+	"deviceName" : "车载视频",
+	"contactsid" : "KMtnMX2hRJmR7uWsT",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+},
+{
+	"_id" : "3yKtKL5jdaLt8TdtZ",
+	"deviceNo" : "CZJ0008",
+	"licensePlate" : "浙JM008警",
+	"brigade" : "直属三大队",
+	"squadron" : "城区2中队",
+	"contacts" : "王仁志",
+	"telephone" : "18605760008",
+	"origintype" : "MOTO",
+	"deviceName" : "车载视频",
+	"contactsid" : "T5W6C7AExKSN6SYRZ",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+},
+{
+	"_id" : "2Xdgoog6ajvpG3Stk",
+	"deviceNo" : "CZJ0009",
+	"licensePlate" : "浙JC009警",
+	"brigade" : "直属三大队",
+	"squadron" : "城区3中队",
+	"contacts" : "吴天天",
+	"telephone" : "18605760009",
+	"origintype" : "CAR",
+	"deviceName" : "车载视频",
+	"contactsid" : "vfiHy9R7waT6PZ982",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+},
+{
+	"_id" : "XhPHgkPtZKcyZsy6G",
+	"deviceNo" : "CZJ0005",
+	"licensePlate" : "浙JC005警",
+	"brigade" : "直属二大队",
+	"squadron" : "城区2中队",
+	"contacts" : "周广义",
+	"telephone" : "18605760005",
+	"origintype" : "CAR",
+	"deviceName" : "车载视频",
+	"contactsid" : "A9EN6BtPChN9QBqHS",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+},
+{
+	"_id" : "BZcNvA5vtvvtsTzre",
+	"deviceNo" : "JWT0001",
+	"brigade" : "直属一大队",
+	"squadron" : "城区1中队",
+	"contacts" : "张大发",
+	"telephone" : "18605760001",
+	"origintype" : "JWT",
+	"deviceName" : "警务通",
+	"contactsid" : "tD3XGHaKKRgTKbpgH",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 1,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "MmH7EBy7WyaF8cXi5",
+	"deviceNo" : "JWT0002",
+	"brigade" : "直属一大队",
+	"squadron" : "城区2中队",
+	"contacts" : "王志",
+	"telephone" : "18605760002",
+	"origintype" : "JWT",
+	"deviceName" : "警务通",
+	"contactsid" : "jFsXzKHuotsCW4tFz",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "X3LQSLDk4ArHpvoRA",
+	"deviceNo" : "JWT0003",
+	"brigade" : "直属一大队",
+	"squadron" : "城区3中队",
+	"contacts" : "李健",
+	"telephone" : "18605760012",
+	"origintype" : "JWT",
+	"deviceName" : "警务通",
+	"contactsid" : "38fLkfgerxyp6duuP",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "zSAD6KkuFqrCoQmez",
+	"deviceNo" : "JWT0004",
+	"brigade" : "直属二大队",
+	"squadron" : "城区1中队",
+	"contacts" : "陈仁亮",
+	"telephone" : "18605760004",
+	"origintype" : "JWT",
+	"deviceName" : "警务通",
+	"contactsid" : "kk6N6rwvSPtC7PyeA",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "cpSGqE5KZxz6euQx5",
+	"deviceNo" : "JWT0005",
+	"brigade" : "直属二大队",
+	"squadron" : "城区2中队",
+	"contacts" : "周广义",
+	"telephone" : "18605760005",
+	"origintype" : "",
+	"deviceName" : "警务通",
+	"contactsid" : "A9EN6BtPChN9QBqHS",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "XNATsPbDkyAoLZKsX",
+	"deviceNo" : "JWT0006",
+	"brigade" : "直属二大队",
+	"squadron" : "城区3中队",
+	"contacts" : "李明",
+	"telephone" : "18605760013",
+	"origintype" : "JWT",
+	"deviceName" : "警务通",
+	"contactsid" : "anis7kYfzsCkzwWKt",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "WZZQ7J3wq6GyfWxpi",
+	"deviceNo" : "JWT0007",
+	"brigade" : "直属三大队",
+	"squadron" : "城区1中队",
+	"contacts" : "张小发",
+	"telephone" : "18605760007",
+	"origintype" : "JWT",
+	"deviceName" : "警务通",
+	"contactsid" : "KMtnMX2hRJmR7uWsT",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "b6aPdNjY98kgSaPxk",
+	"deviceNo" : "JWT0008",
+	"brigade" : "直属三大队",
+	"squadron" : "城区2中队",
+	"contacts" : "王仁志",
+	"telephone" : "18605760008",
+	"origintype" : "JWT",
+	"deviceName" : "警务通",
+	"contactsid" : "T5W6C7AExKSN6SYRZ",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "FrYkFJBshC9YFtacQ",
+	"deviceNo" : "JWT0009",
+	"brigade" : "直属三大队",
+	"squadron" : "城区3中队",
+	"contacts" : "张明明",
+	"telephone" : "18605760017",
+	"origintype" : "JWT",
+	"deviceName" : "警务通",
+	"contactsid" : "LvTro9Cx6LSvSF7eN",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"查询量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		},
+		"处理量" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0,
+			"amount" : 0
+		}
+	}
+},
+{
+	"_id" : "yo8pNoMfX4dvJN4ck",
+	"deviceNo" : "CZJ0001",
+	"licensePlate" : "浙JC001警",
+	"brigade" : "直属一大队",
+	"squadron" : "城区1中队",
+	"contacts" : "张大发",
+	"telephone" : "18605760001",
+	"origintype" : "CAR",
+	"deviceName" : "车载视频",
+	"contactsid" : "tD3XGHaKKRgTKbpgH",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+},
+{
+	"_id" : "f7cXfEhr5ooB24K8f",
+	"deviceNo" : "CZJ0002",
+	"licensePlate" : "浙JM002警",
+	"brigade" : "直属一大队",
+	"squadron" : "城区2中队",
+	"contacts" : "王志",
+	"telephone" : "18605760002",
+	"origintype" : "MOTO",
+	"deviceName" : "车载视频",
+	"contactsid" : "jFsXzKHuotsCW4tFz",
+	"alarm" : {
+		"在线时长" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续在线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		},
+		"连续离线" : {
+			"state" : 0,
+			"alarmTime" : null,
+			"clearTime" : null,
+			"continued" : 0
+		}
+	}
+}]

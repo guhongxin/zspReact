@@ -1,0 +1,110 @@
+  #header{
+    width: 100%;
+    height: 75px;
+    background-color: #005EB8;
+  }
+  #header .nav{
+    max-width:1600px ;
+    height: 100%;
+    margin: 0px auto;
+    padding: 0px 15px;
+  }
+  #header .nav .nav-title{
+    display: inline-block;
+  }
+  #header .nav .nav-title p{
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 75px;
+    margin: 0px;
+  }
+  #header .nav .nav-menu{
+    float: right;
+  }
+  #header .nav .nav-menu>ul{
+    height: 75px;
+    margin: 0px;
+  }
+  #header .nav .nav-menu>ul>li{
+     height: 75px;
+     float: left;
+     list-style-type:none;
+     position: relative;
+ }
+
+  #header .nav .nav-menu>ul>li a{
+    width:120px;
+    height: 75px;
+    font-size:16px;
+    line-height: 75px;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+  }
+  #header .nav .nav-menu>ul>li a i{
+    margin-left: 5px;
+    vertical-align: middle;
+    color: white;
+    font-size: 14px;
+  }
+  #header .nav .nav-menu>ul>li:last-child a{
+    width:200px;
+  }
+  #header .nav .nav-menu>ul>li.active{
+    background: -webkit-linear-gradient(#005EB8, #014688); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#005EB8, #014688); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#005EB8, #014688); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#005EB8, #014688); /* 标准的语法 */
+  }
+  #header .nav .nav-menu>ul>li:not(.active):not(.userInfor):hover {
+    color: red;
+    background: -webkit-linear-gradient(#005EB8, #014688); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#005EB8, #014688); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#005EB8, #014688); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#005EB8, #014688); /* 标准的语法 */
+  }
+  #header .nav .nav-menu>ul>li.userInfor img{
+    margin-right: 5px;
+  }
+  #box{
+    width: 100%;
+  }
+  #header .nav .nav-menu ul li .systemSettings-menu{
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    background-color: #014688;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    display: none;
+    z-index: 1;
+  }
+  #header .nav .nav-menu ul li .systemSettings-menu ul{
+    margin: 0px;
+    padding: 0px;
+    z-index: 1;
+  }
+  #header .nav .nav-menu ul li .systemSettings-menu ul li{
+    height: auto;
+    list-style-type:none;
+    width: 100%;
+  }
+  #header .nav .nav-menu ul li .systemSettings-menu ul li:not(:first-child){
+  }
+  #header .nav .nav-menu ul li .systemSettings-menu ul li a{
+    width: 120px;
+    height: 35px;
+    color:#FFFFFF;
+    line-height: 35px;
+    text-align: center;
+  }
+  #header .nav .nav-menu ul li .systemSettings-menu ul li.twoactive{
+    background-color:#005EB8;
+  }
+  #header .nav .nav-menu ul li .systemSettings-menu ul li:hover{
+    background-color: #005EB8;
+  }
+  #two-menu{
+    cursor: pointer;
+  }

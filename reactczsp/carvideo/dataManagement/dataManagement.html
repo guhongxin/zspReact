@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>react</title>
+	    <link rel="stylesheet" href="../../bootstrap-3.3.5-dist/css/bootstrap.css" />
+	    <link rel="stylesheet" href="../../css/header.css" />
+	    <link rel="stylesheet" href="../../css/publicpage.css" />
+	    <link rel="stylesheet" href="../../css/deviceManagement.css" />
+	    <link rel="stylesheet" href="../../css/customModalstyl.css" />
+	    
+	    <script src="../../build/react.js"></script>
+	    <script src="../../build/react-dom.js"></script>
+	    <script src="../../build/browser.min.js"></script>
+	    <script type="text/javascript" src="../../bootstrap-3.3.5-dist/js/jquery-2.2.3.js" ></script>
+	    <script type="text/javascript" src="../../bootstrap-3.3.5-dist/js/bootstrap.js" ></script>
+	    <script src='../../js/jquery.pagination.js'></script>
+	</head>
+	<body>
+		<div id='nav'></div>
+		<div id='box'></div>
+		<!--设备设置弹窗-->
+	    <div class="modal fade custom-modal" id="setdeviceModle" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	        <div class="modal-dialog" role="document">
+	            <div class="modal-content">
+	                <div class="modal-header">
+	                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	                    <h4 class="modal-title" id="myModalLabel">设备设置</h4>
+	                </div>
+	                <div class="modal-body">
+	                    <div class="set-param">
+	                        <table class="table">
+	                            <tr>
+	                                <th>序号</th>
+	                                <th>设备名称</th>
+	                                <th>型号/分类</th>
+	                                <th>图例</th>
+	                            </tr>
+	                            {{#each  devicemodleInfor}}
+	                            <tr>
+	                                <td><span>{{index}}</span></td>
+	                                <td><span>{{name}}</span></td>
+	                                <td><span>{{deviceModel}}</span></td>
+	                                <td><img src="./img/{{img}}"></td>
+	                            </tr>
+	                            {{/each}}
+	                        </table>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	
+	    <!--设备编辑弹窗-->
+	   
+	 	<div id='xzsbModle'></div>
+	    <!--新增设备弹窗-->
+	    
+		<script type="text/babel" src="./header.js"></script>
+		<script type="text/babel" src="./box1.js"></script>
+		<script type="text/babel" src="./titleReact.js" ></script>
+		<script type="text/babel" src="./xzsbModle.js" ></script>	
+	</body>
+</html>
